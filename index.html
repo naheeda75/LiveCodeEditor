@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title>
+        Live Code Editor
+    </title>
+   
+</head>
+<link rel="stylesheet" href="codesytle.css">
+<script src="codejs.js"></script>
+
+<body>
+<h3> Live Code Editor</h2>
+<div id="maindiv1">
+
+    <label id="h"><b> HTML CODE </b></label>
+    <textarea placeholder="write html code" id="html-code" onkeyup="run()"></textarea>
+
+    <label id="c"><b> CSS CODE</b></label>
+    <textarea placeholder="write css code" id="css-code" onkeyup="run()"></textarea>
+
+
+
+    <label id="j"><b> JS CODE</b></label>
+    <textarea placeholder="write javascript code"id="js-code" onkeyup="run()"></textarea>
+
+</div>
+
+<div id="div2">
+    <label id="out"><b>OUTPUT</b></label>
+    <iframe id="output-code"></iframe>
+</div>
+
+   
+
+</body>
+
+</html>
