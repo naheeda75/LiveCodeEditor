@@ -14,19 +14,15 @@
     width: 49%;
     float: right;
     height: 91.2%;
-    background-color: rgb(245, 225, 8);
-   
-   
-   
-    
+    background-color: rgb(8, 67, 139);
   }
  
 
 #html-code{
-background-color:#D3D3D3;
+background-color:white;
 height: 28%;
 width: 100%;
-color:blue; 
+color:black; 
 
 
 }
@@ -35,16 +31,16 @@ color:blue;
   
 height: 28%;
 width: 100%;
-background-color:#D3D3D3;
-color:blue; 
+background-color:white;
+color:black; 
 
 
 
 
 }
 #js-code{
-  background-color:#D3D3D3;
-color:blue; 
+  background-color:white;
+color:black;
 height: 28%;
 width: 100%;
 
@@ -64,11 +60,11 @@ width: 100%;
 }
 #c{
   font-family:Calibri; 
-  background-color: rgb(245, 225, 8);
+  background-color: rgb(8, 67, 139);
 }
 #j{
   font-family:Calibri;
-  background-color: rgb(245, 225, 8); 
+  background-color: rgb(8, 67, 139); 
 }
 h3{
   font-family:Calibri;
@@ -79,8 +75,8 @@ h3{
 #out{
 
   font-family:Calibri; 
-  background-color: rgb(245, 225, 8);
+  background-color: rgb(8, 67, 139);
 }
 body{
-  background-color: rgb(245, 225, 8);
+  background-color: rgb(8, 67, 139);
 }
